@@ -2,8 +2,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/phaser3-multiplayer.git
-    cd phaser3-multiplayer
+    git clone https://github.com/l0ller/Space-Game-Using-Socket.io.git
+    cd Space-Game-Using-Socket.io
     ```
 
 2. Install dependencies:
@@ -29,6 +29,8 @@
 ## Game Instructions
 
 - Enter your name on the welcome screen.
+- Create Room Or Join Pre-Existing Room
+- Select Level
 - Use the arrow keys to move your spaceship.
 - Press the spacebar to shoot bullets.
 - Collect coins to score points.
