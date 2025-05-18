@@ -22,7 +22,7 @@ A real-time multiplayer space shooter game built with Phaser 3, Socket.IO and No
 1. Clone the repository:
 ```bash
 git clone https://github.com/l0ller/phaser3-socketio-space-shooter.git
-cd phaser3-socketio-space-shooter.git
+cd phaser3-socketio-space-shooter
 ```
 
 2. Install dependencies:
